@@ -1,0 +1,177 @@
+<!-- footer start  -->
+			<!-- ================ -->
+			<footer id="footer" class="light">
+
+				<!-- .footer start -->
+				<!-- ================ -->
+				<div class="footer">
+					<div class="container">
+						<div class="row">
+
+							<div class="space-bottom hidden-lg hidden-xs"></div>
+							<div class="col-md-1">
+								<div class="footer-content">
+									<h5>Why Invest</h5>
+									<nav>
+										<ul class="nav nav-pills nav-stacked">
+															<li><a href="#">World’s Largest Market</a></li>
+															<li><a href="#">Land of Resources</a></li>
+															<li><a href="#">Nexus of Innovation</a></li>
+															<li><a href="#">Workforce Talent</a></li>
+															<li><a href="#">Ease of Doing Business</a></li>
+															<li><a href="#">Sector Spotlights</a></li>
+										</ul>
+									</nav>
+								</div>
+							</div>
+
+							<div class="space-bottom hidden-lg hidden-xs"></div>
+							<div class="col-md-1">
+								<div class="footer-content">
+									<h5>How to Invest</h5>
+									<nav>
+										<ul class="nav nav-pills nav-stacked">
+															<li><a href="#">The Basics</a></li>
+																					<li><a href="#">Cross-Sector Activities</a></li>
+																					<li><a href="#">Choose Your Location</a></li>
+																					<li><a href="#">Programs and Incentives</a></li>
+																					<li><a href="#">Tools and Resources</a></li>
+										</ul>
+									</nav>
+								</div>
+							</div>
+
+							<div class="space-bottom hidden-lg hidden-xs"></div>
+							<div class="col-md-1">
+								<div class="footer-content">
+									<h5>Promote Investment</h5>
+									<nav>
+										<ul class="nav nav-pills nav-stacked">
+															<li><a href="#">Benefits of FDI</a></li>
+															<li><a href="#">Developing Strategy</a></li>
+															<li><a href="#">FDI Data by Country</a></li>
+															<li><a href="#">FDI Data by U.S. State/Territory</a></li>
+															<li><a href="#">EDO Promotion Toolkit</a></li>
+										</ul>
+									</nav>
+								</div>
+							</div>
+
+							<div class="space-bottom hidden-lg hidden-xs"></div>
+							<div class="col-md-1 ">
+								<div class="footer-content">
+									<h5>Events</h5>
+									<nav>
+										<ul class="nav nav-pills nav-stacked">
+															<li><a href="#">SelectUSA Summit</a></li>
+															<li><a href="#"><strong>International</strong></a></li>
+															<li><a href="#">Road Shows</a></li>
+													<li><a href="#">Seminars</a></li>
+													<li><a href="#">Trade Shows</a></li>
+													<li><a href="#"><strong>Domestic</strong></a></li>
+													<li><a href="#">Trade Shows</a></li>
+													<li><a href="#">Training</a></li>
+										</ul>
+									</nav>
+								</div>
+
+							</div>
+
+							<div class="space-bottom hidden-lg hidden-xs"></div>
+							<div class="col-md-1">
+								<div class="footer-content">
+									<h5>Services</h5>
+									<nav>
+										<ul class="nav nav-pills nav-stacked">
+															<li><a href="#">For Investors</a></li>
+															<li><a href="#">Information and Data services</a></li>
+													<li><a href="#">Promotional</a></li>
+													<li><a href="#">Advocacy</a></li>
+
+															<li><a href="#">Case Studies</a></li>
+										</ul>
+									</nav>
+								</div>
+								<div class="footer-content">
+									<h5><a href="#">Assistance</a></h5>
+
+								</div>
+							</div>
+
+
+							<div class="space-bottom hidden-lg hidden-xs"></div>
+							<div class="col-md-1">
+								<div class="footer-content">
+									<h5>Newsroom</h5>
+									<nav>
+										<ul class="nav nav-pills nav-stacked">
+															<li><a href="#">Press Releases</a></li>
+															<li><a href="#">Blog</a></li>
+															<li><a href="#">Social Media</a></li>
+															<li><a href="#">Multimedia</a></li>
+															<li><a href="#">Search</a></li>
+															<li><a href="#">Media Contact</a></li>
+										</ul>
+									</nav>
+								</div>
+							</div>
+
+
+							<div class="space-bottom hidden-lg hidden-xs"></div>
+							<div class="col-md-1 ">
+								<div class="footer-content">
+									<h5>About</h5>
+									<nav>
+										<ul class="nav nav-pills nav-stacked">
+															<li><a href="#">Leadership Bios</a></li>
+															<li><a href="#">Global and Domestic Teams</a></li>
+															<li><a href="#">Interagency Partners</a></li>
+															<li><a href="#">SelectUSA Summit</a></li>
+															<li><a href="#">FAQs</a></li>
+															<li><a href="#">Careers</a></li>
+										</ul>
+									</nav>
+								</div>
+
+
+							</div>
+
+
+
+						</div>
+						<div class="space-bottom hidden-lg hidden-xs"></div>
+					</div>
+				</div>
+				<!-- .footer end -->
+
+				<!-- .subfooter start -->
+				<!-- ================ -->
+				<div class="subfooter">
+					<div class="container">
+
+
+								 <p class="footer2">
+    Selectusa.gov is an official site of the U.S. Government<br><small>
+    <a href="https://help.export.gov/ics/support/ticketnewwizard.asp?style=classic&amp;feedback=true">Submit Feedback</a>&nbsp;|
+		<a href="#">Contact Us</a>&nbsp;|
+		<a href="#">Privacy Policy</a>&nbsp;|
+		<a href="#">Disclaimer</a>&nbsp;|
+		<a href="#">About Us</a>&nbsp;|
+		<a href="http://www.usa.gov">USA.gov</a>&nbsp;|
+		<!-- &nbsp;| -->
+		<a href="http://www.osec.doc.gov/omo/FOIA/FOIAWEBSITE.htm">FOIA</a>&nbsp;|
+		<a href="http://ocio.os.doc.gov/ITPolicyandPrograms/Information_Quality/index.htm">Information Quality</a>&nbsp;|
+		<a href="http://www.osec.doc.gov/ocr/nofear/nofear.htm">No Fear</a>&nbsp;|
+		<a href="#">Site Map</a>&nbsp;|
+		<a href="http://www.adobe.com/products/acrobat/readstep2.html" target="_blank">Download Adobe Reader</a></small>
+  </p>
+
+
+					</div>
+				</div>
+				<!-- .subfooter end -->
+			</footer>
+			<!-- footer end -->
+
+		</div>
+		<!-- page-wrapper end -->
