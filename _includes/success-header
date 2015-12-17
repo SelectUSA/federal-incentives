@@ -126,7 +126,7 @@
 
 								<!-- logo -->
 								<div class="logo">
-									<a href="susa-home.html"><img id="logo" src="images/SelectUSA-Logo-hr.png" width="250" alt="logo"></a>
+									<a href="susa-home.html"><img id="logo" src="{{ site.baseurl }}/images/SelectUSA-Logo-hr.png" width="250" alt="logo"></a>
 								</div>
 
 
