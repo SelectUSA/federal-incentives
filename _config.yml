@@ -1,6 +1,6 @@
 name: Federal Incentives
 highlighter: pygments
-baseurl: http://selectusa.github.io/mobile
+baseurl: http://selectusa.github.io/federal-incentives
 exclude:
   - .bundle
   - .git
