@@ -1,16 +1,12 @@
 var movies = [
-  {
-    "name": "Clean Energy Loan Guarantee Program",
-    "link": "/federal-incentives/investment-incentives/clean-energy-loan-guarantee-program.html",
-    "outline": "The Department of Energy’s Loan Programs—administered by LPO—enable DOE to work with private companies and lenders to mitigate the financing risks associated with clean energy projects, and thereby encourage their development on a broader and much-needed scale.The Loan Programs consist of three separate programs managed by two offices, the Loan Guarantee Program Office (LGP) and the Advanced Technology Vehicles Manufacturing Loan Program Office. LPO originates, guarantees, and monitors loans to support clean energy projects through these programs.",
+    {
+    "name": "Agricultural Partners and International Trade Leads",
+    "link": "http://www.fas.usda.gov/trade-lead-system",
+    "outline": "The U.S. Department of Agriculture’s Foreign Agriculture Service offers a variety of export marketing services to assist U.S. agricultural exporters with finding customers overseas. These services include a Foreign Buyers List, Trade Association Representatives, an Export Directory of U.S. Food Distribution Companies, a U.S. Suppliers List, and Trade Leads.",
     "genre": [
-      "Energy",
-      "Environment",
-      "Environment and Energy",
-      "Funding",
-      "Petroleum, Minerals and Mining",
-      "Research and Development",
-      "Department of Energy"
+      "agriculture",
+      "export",
+      "marketing"
     ],
     "id": 1
   },
