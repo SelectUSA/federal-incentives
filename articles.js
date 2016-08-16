@@ -46,7 +46,7 @@ var movies = [
     {
     "name":"Export Control Reform (ECR) Regularly Scheduled Teleconference Calls",
     "link":"https://www.bis.doc.gov/index.php/2012-03-30-17-54-11/2013-02-15-13-50-20",
-    "outline":"BIS conducts a weekly teleconference updating the public on the Export Control Reform (ECR) Initiative each Wednesday at 2:30 p.m. Eastern Time. Exporters can submit questions about any aspect of the Export Control Reform Initiative, including any BIS proposed rule that is open for comment or any ECR rule published in final form.  Questions must be submitted via email prior to the teleconference to ECRweekly@bis.doc.gov. Additionally, BIS has scheduled regular call-in programs to field questions from the exporting community concerning the Cuba rules published on January 16, 2015, July 22, 2015, and September 21, 2015.  The next programs will occur at 2 PM Eastern Time on February 9, March 8, April 12, May 10 and June 14 of 2016.",
+    "outline":"BIS conducts a weekly teleconference updating the public on the Export Control Reform (ECR) Initiative each Wednesday at 2:30 p.m. Eastern Time. Exporters can submit questions about any aspect of the Export Control Reform Initiative, including any BIS proposed rule that is open for comment or any ECR rule published in final form.  Questions must be submitted via email prior to the teleconference to ECRweekly@bis.doc.gov.",
     "genre": [
     	"Export Programs",
     	"Bureau of Industry and Security",
@@ -75,7 +75,7 @@ var movies = [
   },
     {
     "name":"Bureau of Industry and Security (BIS) Data Portal",
-    "link":"http://www.bis.doc.gov/index.php/data",
+    "link":"http://www.bis.doc.gov/data",
     "outline":"The BIS Data Portal is a one-stop shop for export control data and analysis. The portal features statistics and a variety of datasets.",
     "genre": [
     	"Export Programs",
@@ -96,7 +96,7 @@ var movies = [
     	 "id": 7
   },
     {
-    "name":"The Consolidated Screen List (CSL)",
+    "name":"The Consolidated Screening List (CSL)",
     "link":"http://apps.export.gov/csl-search#/csl-search",
     "outline":"The Consolidated Screening List identifies parties for which the United States Government maintains restrictions on certain exports, re-exports, or transfers of items.   Exporters can use the CSL search engine to help screen potential parties to regulated transactions. In the event that a company, entity or person on the list appears to match a party potentially involved in your export transaction, additional due diligence should be conducted before proceeding.",
     "genre": [
@@ -139,21 +139,6 @@ var movies = [
     	"regulations"
     	],
     	 "id": 10
-  },
-    {
-    "name":"Don't Let This Happen to You",
-    "link":"http://www.bis.doc.gov/index.php/forms-documents/doc_view/1005-don-t-let-this-happen-to-you-071814",
-    "outline":"BIS has a summary of important export enforcement actions investigated by BIS Special Agents.  The document is updated on a regular basis and will provide examples of what issues have been handled criminally versus through administrative remedies.  The document also details results of investigations led by the Office of Antiboycott Compliance which governs laws that discourage, and in some circumstances, prohibit U.S. companies from furthering or supporting the boycott of Israel sponsored by the Arab League, and certain other countries, including complying with certain requests for information designed to verify compliance with the boycott.",
-    "genre": [
-    	"Export Programs",
-    	"Bureau of Industry and Security",
-    	"Commerce",
-    	"assistance",
-    	"counseling",
-    	"export",
-    	"regulations"
-    	],
-    	 "id": 11
   },
   {
     "name":"Foreign Export Control Resources",
