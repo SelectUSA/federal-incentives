@@ -509,7 +509,7 @@ var movies = [
     	 "id": 34
   },
   {
-    "name":"Catalog of Federal Domestic Assistance",
+    "name":"Catalog of Federal Domestic Assistance (CFDA)",
     "link":"http://www.cfda.gov/",
     "outline":"The Catalog of Federal Domestic Assistance (CFDA) is a compendium of federal assistance programs administered by various departments and establishments of the U.S. federal government. This directory contains a wide range of programs, projects, services, and activities offering financial and nonfinancial assistance.",
     "genre": [
@@ -553,7 +553,7 @@ var movies = [
   },
   {
     "name":"Economic Injury Disaster Loan (EIDL)",
-    "link":"https://www.sba.gov/disaster/",
+    "link":"https://www.sba.gov/loans-grants/see-what-sba-offers/sba-loan-programs/disaster-loans/types-disaster-loans/economic-injury-disaster-loans",
     "outline":"Economic Injury Disaster Loans (EIDLs) are working capital loans available to qualified small businesses, private nonprofit organizations of all sizes, and small agricultural cooperatives that suffered financial losses because of a natural disaster, regardless of physical damage. This assistance is administered by the Small Business Administration.",
     "genre": [
     	"Financing and Loans",
@@ -1108,7 +1108,7 @@ var movies = [
     	],
     	 "id": 72
   },  {
-    "name":"Small Business Innovation Research Program",
+    "name":"Small Business Innovation Research Program (SBIR)",
     "link":"http://www.sbir.gov/",
     "outline":"The Small Business Innovation Research (SBIR) program encourages U.S.-based small businesses to engage in federal research/research and development (R/R&D) that has the potential for commercialization. Through a competitive awards-based program, SBIR enables small businesses to explore their technological potential and provides the incentive to profit from its commercialization. The program provides access to funds committed by federal agencies with large extramural research and development budgets, including the Department of Defense, Energy and Health and Human Services, among others.",
     "genre": [
@@ -1579,7 +1579,7 @@ var movies = [
   },
   {
     "name":"New Markets Tax Credit",
-    "link":"http://www.irs.gov/pub/irs-utl/atgnmtc.pdf",
+    "link":"https://www.irs.gov/uac/form-8874-new-markets-credit?_ga=1.228171293.1699888223.1472484116",
     "outline":"If you make a qualified equity investment in a certified community development entity (CDE) serving low-income communities or persons, you can claim a tax credit on your individual or corporate federal taxes.",
     "genre": [
     	"Tax Credits and Deductions",
@@ -1684,7 +1684,7 @@ var movies = [
     	 "id": 109
   },
   {
-    "name":"Tax Incentives in Renewal Communities (RCs)",
+    "name":"Tax Incentives in Renewal Communities (RCs) and Empowerment Zones (EZs)",
     "link":"http://portal.hud.gov/hudportal/HUD?src=/program_offices/comm_planning/economicdevelopment/programs/rc/businesses",
     "outline":"For businesses that hire local residents, upgrade their equipment needs, and build or rehabilitate commercial property, there is substantial cash savings possible on taxes paid through special federal tax incentives reserved exclusively in Renewal Communities (RCs) and Empowerment Zones (EZs). These employer incentives include yearly employment and work opportunity tax credits, as well as accelerated depreciation through commercial revitalization deductions (CRDs). There are also substantial capital gains tax savings available to qualifying businesses in Renewal Communities and Empowerment Zones, and incentives for businesses that upgrade their equipment needs.",
     "genre": [
