@@ -280,8 +280,8 @@ var movies = [
   },
     {
     "name":"Hollings Manufacturing Extension Partnership (MEP)",
-    "link":"http://www.nist.gov/mep/",
-    "outline":"The Hollings Manufacturing Extension Partnership (MEP) is a nationwide network of centers providing services from innovation strategies to process improvements to workforce development, with a focus on helping small manufacturers develop new customers, expand into new markets, and create new products.",
+    "link":"http://www.nist.gov/mep/ffo.cfm/",
+    "outline":"The Hollings Manufacturing Extension Partnership (MEP) advocates Federal Funding Opportunities (FFO) for projects designed to enhance the productivity, technical performance and global competitiveness of U.S. Manufacturers. FFO's are implemented through MEP's National system consisting of; 60 Centers, 440 Service Locations, 1,300 Center Staff and over 2,100 Service Providers. These opportunities help encourage the creation and adaption of improved technologies and provide resources to develop new products that respond to changing market needs.",
     "genre": [
     	"Export Programs",
     	"National Institute of Standards and Technology",
@@ -447,7 +447,7 @@ var movies = [
   },
   {
     "name":"U.S. Export Assistance Centers (USEACs)",
-    "link":"http://export.gov/eac/index.asp",
+    "link":"http://2016.export.gov/usoffices/",
     "outline":"U.S. Export Assistance Centers (USEACs) provide front-line outreach and service operations for U.S.-based exporters through the assistance of International Trade Specialists, based in more than 100 locations throughout the 50 U.S. states and Puerto Rico.",
     "genre": [
     	"Export Programs",
@@ -510,8 +510,8 @@ var movies = [
   },
   {
     "name":"Catalog of Federal Domestic Assistance",
-    "link":"http://www.cfda.gov/",
-    "outline":"The Catalog of Federal Domestic Assistance (CFDA) is a compendium of federal assistance programs administered by various departments and establishments of the U.S. federal government. This directory contains a wide range of programs, projects, services, and activities offering financial and nonfinancial assistance.",
+    "link":"https://www.cfda.gov/?s=main&mode=list&tab=list ",
+    "outline":"The Catalog of Federal Domestic Assistance is a government-wide compendium of Federal programs, projects, services, and activities that provide assistance or benefits to the American public. It contains financial and nonfinancial assistance programs administered by departments and establishments of the Federal government.",
     "genre": [
     	"Financing and Loans",
     	"CFDA",
@@ -553,7 +553,7 @@ var movies = [
   },
   {
     "name":"Economic Injury Disaster Loan (EIDL)",
-    "link":"https://www.sba.gov/disaster/",
+    "link":"https://www.sba.gov/loans-grants/see-what-sba-offers/sba-loan-programs/disaster-loans/types-disaster-loans/economic-injury-disaster-loans",
     "outline":"Economic Injury Disaster Loans (EIDLs) are working capital loans available to qualified small businesses, private nonprofit organizations of all sizes, and small agricultural cooperatives that suffered financial losses because of a natural disaster, regardless of physical damage. This assistance is administered by the Small Business Administration.",
     "genre": [
     	"Financing and Loans",
@@ -642,9 +642,9 @@ var movies = [
     	 "id": 43
   },
     {
-    "name":"Build America Transportation Investment Center (BATIC)",
+    "name":"Build America Bureau",
     "link":"www.transportation.gov/buildamerica",
-    "outline":"The BATIC serves as the single point of contact and coordination for states, municipalities and project sponsors looking to utilize federal transportation expertise, apply for federal credit programs and explore ways to access private capital in public private partnerships.  Federal credit programs include Transportation Innovation and Finance Act (TIFIA), Railroad Innovation and Improvement Financing (RRIF) and Private Activity Bonds (PAB).  Additionally, the BATIC Institute: An AASHTO Center for Excellence, promotes public sector capacity building in the analysis, understanding, and use of project finance techniques through training, sharing of best practices, and technical assistance to all State Departments of Transportation and their local partner agencies.",
+    "outline":"The Build America Bureau (the “Bureau”) is responsible for driving transportation infrastructure development projects in the United States. The Bureau streamlines credit opportunities and grants and provides access to the credit and grant programs with more speed and transparency, while also providing technical assistance and encouraging innovative best practices in project planning, financing, delivery, and monitoring. To achieve this vision, the Bureau draws upon the full resources of U.S. DOT to best utilize the expertise of all the modes within the Department while promoting a culture of innovation and customer service. Additionally, the BATIC Institute, An AASHTO Center for Excellence, promotes public sector capacity building in the analysis, understanding, and use of project finance techniques through training, sharing of best practices, and technical assistance to all State Departments of Transportation and their local partner agencies.",
     "genre": [
     	"Logistics and Transportation",
     	"Financing and Loans",
@@ -799,7 +799,7 @@ var movies = [
   {
     "name":"Grants.gov",
     "link":"http://www.grants.gov/",
-    "outline":"Managed by the Department of Health and Human Services, Grants.gov provides a centralized location for grant seekers to find and apply for federal funding opportunities. Today, the Grants.gov system houses information on over 1,000 grant programs and vets grant applications for 26 federal grant-making agencies. After a one-time registration, businesses can apply to as many federal agencies and grant programs as needed with just one secure login. To find grants and opportunities for businesses, browse by eligibilities and select for profit organizations or small businesses.",
+    "outline":"Grants.gov provides a centralized location for grant seekers to find and apply for federal funding opportunities. Today, the Grants.gov system houses information on over 1,000 grant programs and vets grant applications for federal grant-making agencies.",
     "genre": [
     	"Funding and Grants",
     	"grants",
@@ -1579,7 +1579,7 @@ var movies = [
   },
   {
     "name":"New Markets Tax Credit",
-    "link":"http://www.irs.gov/pub/irs-utl/atgnmtc.pdf",
+    "link":"https://www.irs.gov/uac/form-8874-new-markets-credit?_ga=1.228171293.1699888223.1472484116",
     "outline":"If you make a qualified equity investment in a certified community development entity (CDE) serving low-income communities or persons, you can claim a tax credit on your individual or corporate federal taxes.",
     "genre": [
     	"Tax Credits and Deductions",
@@ -1684,7 +1684,7 @@ var movies = [
     	 "id": 109
   },
   {
-    "name":"Tax Incentives in Renewal Communities (RCs)",
+    "name":"Tax Incentives in Renewal Communities (RCs) and Empowerment Zones (EZs)",
     "link":"http://portal.hud.gov/hudportal/HUD?src=/program_offices/comm_planning/economicdevelopment/programs/rc/businesses",
     "outline":"For businesses that hire local residents, upgrade their equipment needs, and build or rehabilitate commercial property, there is substantial cash savings possible on taxes paid through special federal tax incentives reserved exclusively in Renewal Communities (RCs) and Empowerment Zones (EZs). These employer incentives include yearly employment and work opportunity tax credits, as well as accelerated depreciation through commercial revitalization deductions (CRDs). There are also substantial capital gains tax savings available to qualifying businesses in Renewal Communities and Empowerment Zones, and incentives for businesses that upgrade their equipment needs.",
     "genre": [
@@ -1739,45 +1739,5 @@ var movies = [
     	"business operations"
     	],
     	 "id": 113
-  },
-  {
-    "name":"Office of Economic Adjustment (OEA)",
-    "link":"https://www.oea.gov/programs/information/oea-can-help",
-    "outline":"",
-    "genre": [
-    	"Defense",
-    	"Office of Economic Adjustment (OEA)",
-    	"economic",
-    	"adjustment",
-    	"assistance"
-    	],
-    	 "id": 114
-  },
-  {
-    "name":"Office of Manufacturing and Industrial Base Policy",
-    "link":"http://www.acq.osd.mil/dpap/cpic/cp/docs/Doing_Business_with_DoD_%282Jun14%29.pdf",
-    "outline":"",
-    "genre": [
-    	"Miscellaneous Assistance and Counseling",
-    	"Defense",
-    	"Office of Manufacturing and Industrial Base Policy",
-    	"manufacturing",
-    	"industrial base policy"
-    	],
-    	 "id": 115
-  },
-  {
-    "name":"Office of Small and Disadvantaged Business Utilization",
-    "link":"https://www.whitehouse.gov/sites/default/files/docs/white_house_business_council_-_guide_to_hiring_veterans_0.pdf",
-    "outline":"",
-    "genre": [
-    	"Miscellaneous Assistance and Counseling",
-    	"VA",
-    	"Office of Small and Disadvantaged Business Utilization",
-    	"veterans",
-    	"government contracts",
-    	"defense contracts"
-    	],
-    	 "id": 116
   }
 ]
