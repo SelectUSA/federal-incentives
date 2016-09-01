@@ -1739,5 +1739,50 @@ var movies = [
     	"business operations"
     	],
     	 "id": 113
+  },
+  {
+    "name":"UNICOR: Production Opportunities",
+    "link":"http://www.unicor.gov/PartneringWithUnicor.aspx",
+    "outline":"UNICOR may assist private firms that compete for government contracts by allowing them to purchase manufacturing time and to subcontract parts and services directly through UNICOR. Our high-quality, competitively priced labor can translate into more competitive bids and higher profits for your business.",
+    "genre": [
+    	"Manufacturing",
+    	"Labor",
+    	"Workforce"
+    	],
+    	 "id": 114
+  },
+  {
+    "name":"UNICOR Procurement Opportunities",
+    "link":"http://www.unicor.gov/Contracting.aspx",
+    "outline":"The UNICOR Procurement Branch purchases raw materials, supplies, services and construction in support of UNICOR, Federal Prison Industries (FPI) factories located in Federal Bureau of Prisons facilities nationwide. These Federal factories produce goods and services for sale primarily for Federal government agencies.  FPI solicitation documents are available for download to potential offerors via the Internet.",
+    "genre": [
+    	"Manufacturing",
+    	"Sales"
+    	],
+    	 "id": 115
+  },
+  {
+    "name":"Special Employer Incentives (SEI) Program",
+    "link":"http://www.benefits.va.gov/VOW/docs/seiflyerfinal.pdf",
+    "outline":"The Special Employer Incentives (SEI) program, which typically lasts up to 6 months, encourages companies to hire eligible veterans identified by VA to provide training and practical hands‐on experience.  VA facilitates the process by identifying suitable placements and coordinating efforts between all parties.  Benefits include:  reimbursement of up to 50 percent of the Veteran’s salary during the SEI program, VA‐provided tools, equipment, uniforms and other supplies, appropriate accommodations based on individual needs of the Veteran, and VA support during training and placement follow‐up phase to assist with work or training‐related needs.  Employment is expected to continue following successful completion of the program.",
+    "genre": [
+    	"Workforce",
+    	"Financing",
+    	"Veterans"
+    	],
+    	 "id": 116
+  },
+  {
+    "name":"Natural Resources Investment Center",
+    "link":"https://www.doi.gov/invest",
+    "outline":"The Natural Resource Investment Center (Center) uses market-based tools and innovative public-private collaborations to conserve natural resources, enhance efficient water allocation, and promote increased investments in critical infrastructure in conjunction with the Department’s programs, bureaus, and offices. The Center focuses on three major goals: Increase investment in critical water infrastructure; Increase investment in water conservation and build up water supply resilience; and Foster private impact investments and support well-structured markets that advance efficient permitting and conservation.",
+    "genre": [
+    	"Natural Resources",
+    	"Infrastructure",
+    	"Conservation",
+    	"Public-Private",
+    	"Information"
+    	],
+    	 "id": 117
   }
 ]
