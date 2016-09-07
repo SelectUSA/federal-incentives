@@ -700,25 +700,6 @@ var movies = [
     	],
     	 "id": 46
   },
-    {
-    "name":"Advanced Biofuel Payment Program",
-    "link":"http://www.rd.usda.gov/programs-services/advanced-biofuel-payment-program/",
-    "outline":"Operated by the U.S. Department of Agriculture, this program supports and ensures an expanding production of advanced biofuels by paying producers for finished advanced biofuel products. Any entity that produces advanced biofuel in the United States and sells it is eligible to apply.",
-    "genre": [
-    	"Energy",
-    	"Funding and Grants",
-    	"USDA",
-    	"Rural Development",
-    	"agriculture",
-    	"rural",
-    	"funding",
-    	"grants",
-    	"renewable energy",
-    	"energy",
-    	"environment"
-    	],
-    	 "id": 47
-  },
   {
     "name":"ARPA-E Building Energy Efficiency Through Innovative Thermodevices (BEETIT)",
     "link":"http://arpa-e.energy.gov/?q=arpa-e-programs/beetit/",
@@ -1784,6 +1765,45 @@ var movies = [
     	"Information"
     	],
     	 "id": 117
-  }
+  },
+  {
+    "name":"Business & Industry Loan Guarantees",
+    "link":"http://www.rd.usda.gov/programs-services/business-industry-loan-guarantees",
+    "outline":"This program bolsters the existing private credit structure through the guaranteeing of loans for rural businesses, allowing private lenders to extend more credit than they would typically be able to.",
+    "genre": [
+    	"Loans",
+    	"Rural",
+    	"Credit"
+    	],
+    	 "id": 118
+  },
+  {
+    "name":"Repowering Assistance Program",
+    "link":"http://www.rd.usda.gov/programs-services/repowering-assistance-program",
+    "outline":"This program provides funding for up to 50% of the total eligible project costs for biorefineries to install renewable biomass systems for heating and power at their facilities; or, to produce new energy from renewable biomass",
+    "genre": [
+    	"Funding",
+    	"Assistance",
+    	"Biofuel",
+    	"Refineries",
+    	"Biomass",
+    	"Renewable"
+    	],
+    	 "id": 119
+  },
+  {
+    "name":"Rural Energy for America Program - Renewable Energy Systems & Energy Efficiency Improvement Loans & Grants",
+    "link":"http://www.rd.usda.gov/programs-services/rural-energy-america-program-renewable-energy-systems-energy-efficiency",
+    "outline":"This program provides guaranteed loan financing and grant funding to agricultural producers and rural small businesses for renewable energy systems or to make energy efficiency improvements.",
+    "genre": [
+    	"Financing",
+    	"Loans",
+    	"Grants",
+    	"Small Business",
+    	"Energy Efficiency",
+    	"Renewable"
+    	],
+    	 "id": 120
+  },
 ]
 
