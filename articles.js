@@ -1804,6 +1804,6 @@ var movies = [
     	"Renewable"
     	],
     	 "id": 120
-  },
+  }
 ]
 
