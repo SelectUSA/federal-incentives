@@ -175,7 +175,7 @@ var movies = [
   {
     "name":"Environmental Exports Program",
     "link":"http://www.exim.gov/about/special-initiatives/environment",
-    "outline":"The Export-Import Bank provides financing to help mitigate risk for U.S.-based environmental companies, and offers competitive financing terms to international buyers for the purchase of U.S.-made environmental goods and services.",
+    "outline":"EXIM provides financing to help mitigate risk for U.S.-based environmental companies, and offers competitive financing terms to international buyers for the purchase of U.S.-made environmental goods and services.",
     "genre": [
     	"Export Programs",
     	"Environmental Technology",
@@ -188,7 +188,7 @@ var movies = [
   },  {
     "name":"Small Business Export Credit Insurance",
     "link":"http://www.exim.gov/what-we-do/export-credit-insurance",
-    "outline":"This policy is designed to protect an exporter’s accounts receivable. This program provides important benefits including risk reduction – safeguarding against catastrophic losses from buyer nonpayment, and improved liquidity – accelerating cash flow by borrowing against foreign receivables. With this security in hand, companies can increase their global competitiveness by offering credit terms needed to win sales.",
+    "outline":"This insurance is designed to protect an exporter’s accounts receivable. It provides important benefits including risk reduction – safeguarding against catastrophic losses from buyer nonpayment, and improved liquidity – accelerating cash flow by borrowing against foreign receivables. With this security in hand, companies can increase their global competitiveness by offering credit terms needed to win sales.",
     "genre": [
     	"Export Programs",
     	"Export-Import Bank",
@@ -200,9 +200,9 @@ var movies = [
     	 "id": 15
   },
   {
-    "name":"Medium and Long-Term Loan Guarantee Program",
+    "name":"Medium and Long-Term Loan Guarantees",
     "link":"http://www.exim.gov/what-we-do/loan-guarantee/",
-    "outline":"This program is designed to help U.S.-based exporters secure competitive financing for their international buyers. EXIM guarantees term financing, generally up to 10 years, to creditworthy international buyers in both the private and public sector, and finances local costs up to 30%.",
+    "outline":"The guarantees are designed to help U.S.-based exporters secure competitive financing for their international buyers. EXIM guarantees term-financing, generally up to 12 years, to creditworthy international buyers in both the private and public sector, and finances local costs up to 30%.",
     "genre": [
     	"Export Programs",
     	"Export-Import Bank",
@@ -217,9 +217,9 @@ var movies = [
     	 "id": 16
   },
   {
-    "name":"Working Capital Guarantee Program",
+    "name":"Working Capital Loan Guarantee",
     "link":"http://www.exim.gov/what-we-do/working-capital/",
-    "outline":"The Export-Import Bank’s Working Capital Loan Guarantee program does not replace an exporter’s regular bank; rather, it works with lenders to provide a loan guarantee that backs the borrower’s debt in the event something goes awry. EXIM provides a 90% loan-backing guarantee, decreasing repayment risk and increasing the lender’s willingness to extend a loan. With EXIM support, exporters can borrow more with the same collateral, secure performance and bid bonds necessary to win projects, and increase their global competitiveness.",
+    "outline":"EXIM's Working Capital Loan Guarantee does not replace an exporter’s regular bank; rather, it works with lenders to provide a loan guarantee that backs the borrower’s debt in the event something goes awry. EXIM provides a 90% loan-backing guarantee, decreasing repayment risk and increasing the lender’s willingness to extend a loan. With EXIM support, exporters can borrow more with the same collateral, secure performance and bid bonds necessary to win projects, and increase their global competitiveness.",
     "genre": [
     	"Export Programs",
     	"Export-Import Bank",
