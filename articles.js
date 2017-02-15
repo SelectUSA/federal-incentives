@@ -278,10 +278,10 @@ var movies = [
     	],
     	 "id": 20
   },
-    {
-    "name":"Hollings Manufacturing Extension Partnership (MEP)",
-    "link":"http://www.nist.gov/mep/ffo.cfm/",
-    "outline":"The Hollings Manufacturing Extension Partnership (MEP) is committed to strengthening U.S. manufacturing, and the program continually evolves to meet manufacturers changing needs. Through its services and partnerships, MEP has had a profound impact on the growth of well-paying jobs, the development of dynamic manufacturing communities, and the enhancement of American innovation and global competitiveness.  MEP is a national system of centers located in all 50 states and Puerto Rico. Each center is a partnership between the federal government and a variety of public or private entities, including state, university, and nonprofit organizations. This diverse network, with 588 service locations, has over 1,200 field staff serving as trusted business advisors and technical experts ready and able to assist small and mid-sized manufacturing companies.",
+      {
+    "name":"Manufacturing Extension Partnership (MEP)",
+    "link":"https://www.nist.gov/mep",
+    "outline":"The Manufacturing Extension Partnership (MEP) is a nationwide network of centers providing services from innovation strategies to process improvements to workforce development, with a focus on helping small manufacturers develop new customers, expand into new markets, and create new products.",
     "genre": [
     	"Export Programs",
     	"National Institute of Standards and Technology",
@@ -295,6 +295,25 @@ var movies = [
     	"marketing"
     	],
     	 "id": 21
+  },
+    {
+    "name":"Manufacturing Extension Partnership (MEP) Funding Opportunities",
+    "link":"http://www.nist.gov/mep/ffo.cfm/",
+    "outline":"The Hollings Manufacturing Extension Partnership (MEP) advocates Federal Funding Opportunities (FFO) for projects designed to enhance the productivity, technical performance and global competitiveness of U.S. Manufacturers. FFO's are implemented through MEP's National system consisting of; 60 Centers, 440 Service Locations, 1,300 Center Staff and over 2,100 Service Providers. These opportunities help encourage the creation and adaption of improved technologies and provide resources to develop new products that respond to changing market needs.",
+    "genre": [
+    	"Export Programs",
+    	"National Institute of Standards and Technology",
+    	"Commerce",
+    	"manufacturing",
+    	"counseling",
+    	"information",
+    	"business development",
+    	"business operations",
+    	"export",
+      "funding",
+    	"marketing"
+    	],
+    	 "id": 22
   },
     {
     "name":"International Business Partnership Program",
