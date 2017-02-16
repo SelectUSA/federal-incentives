@@ -646,7 +646,7 @@ var movies = [
     	 "id": 42
   },
     {
-    "name":"Physical Disaster Loan",
+    "name":"Business Physical Disaster Loan",
     "link":"http://www.sba.gov/disaster/",
     "outline":"Following a natural disaster, Physical Disaster Loans of up to $2 million are available to qualified businesses or private, nonprofit organizations of any size to help restore or replace damaged real estate, inventory, machinery, equipment, and other business assets to their pre-disaster condition.",
     "genre": [
@@ -696,30 +696,7 @@ var movies = [
     	],
     	 "id": 45
   },
-  {
-    "name":"Rural Energy for America Program (REAP) Renewable Energy Systems & Energy Efficiency Improvement Loan Guarantee Program",
-    "link":"http://www.rd.usda.gov/programs-services/rural-energy-america-program-renewable-energy-systems-energy-efficiency/",
-    "outline":"The REAP Renewable Energy Systems and Energy Efficiency Improvement Loan Guarantee Program provides guarantees to commercial lenders who make loans to small businesses located in rural areas and agricultural producers, helping them to purchase, install, or construct renewable energy systems or make energy efficiency improvements to existing non-residential facilities.",
-    "genre": [
-    	"Energy",
-    	"Financing and Loans",
-    	"USDA",
-    	"Rural Development",
-    	"grants",
-    	"funding",
-    	"loan",
-    	"guarantee",
-    	"research and development",
-    	"energy",
-    	"rural",
-    	"renewable energy",
-    	"small business",
-    	"SME",
-    	"business operations"
-    	],
-    	 "id": 46
-  },
-  {
+   {
     "name":"ARPA-E Building Energy Efficiency Through Innovative Thermodevices (BEETIT)",
     "link":"http://arpa-e.energy.gov/?q=arpa-e-programs/beetit/",
     "outline":"Administered by the U.S. Department of Energy, the goal of this program is to develop new approaches and technologies for building cooling equipment and air conditioners, with the specific aim of drastically improving building energy efficiency and reducing greenhouse gas emissions. ARPA-E empowers America's energy researchers with funding, technical assistance, and market readiness.",
@@ -1166,6 +1143,30 @@ var movies = [
     	],
     	 "id": 76
   },
+      {
+    "name":"Office of Small and Disadvantaged Business Utilization",
+    "link":"https://www.treasury.gov/resource-center/sb-programs/Small-Disadvantaged-Business/Pages/Small-and-Disadvantaged-Business-Utilization1.aspx",
+    "outline":"The Office of Small and Disadvantaged Business Utilization assists, counsels, and advises small businesses of all types (small businesses, small disadvantaged business, women-owned small businesses, economically disadvantaged women-owned small businesses, veteran owned small businesses, service disabled veteran owned small businesses, and small businesses located in historically underutilized business zones) on procedures for contracting with Treasury.",
+    "genre": [
+    	"SME",
+    	"small business",
+      "minority",
+      "counseling"
+    	],
+    	 "id": 77
+  },
+        {
+    "name":"Small Business Lending Fund (SBLF)",
+    "link":"https://www.treasury.gov/resource-center/sb-programs/Pages/Small-Business-Lending-Fund.aspx",
+    "outline":"The Small Business Lending Fund (SBLF) provided capital to qualified community banks and community development loan funds (CDLFs) to encourage these institutions and Main Street businesses to work together to promote economic growth and create new jobs. Through the SBLF program, Treasury invested over $4.0 billion in 332 institutions, structured to incentivize increased small business lending. This page features an interactive map of participating lending institutions.",
+    "genre": [
+    	"SME",
+    	"small business",
+      "lending",
+      "counseling"
+    	],
+    	 "id": 78
+  },
     {
     "name":"State Trade & Export Promotion (STEP) Grant Program",
     "link":"https://www.sba.gov/content/state-trade-and-export-promotion-step-pilot-grant-initiative-cfda-59061-1",
@@ -1178,7 +1179,7 @@ var movies = [
     	"small business",
     	"SME"
     	],
-    	 "id": 77
+    	 "id": 79
   },
     {
     "name":"Tax Credits and Deductions",
@@ -1193,7 +1194,7 @@ var movies = [
     	"credits",
     	"deductions"
     	],
-    	 "id": 78
+    	 "id": 80
   },
     {
     "name":"Tax Information for Businesses",
@@ -1213,7 +1214,7 @@ var movies = [
     	"large business and international",
     	"tax filing"
     	],
-    	 "id": 79
+    	 "id": 81
   },
     {
     "name":"International Tax Topic Index",
@@ -1229,7 +1230,7 @@ var movies = [
     	"tax filing",
     	"international tax"
     	],
-    	 "id": 117
+    	 "id": 82
   },
     {
     "name":"Alternative Fuel Vehicle Refueling Property Credit",
@@ -1245,7 +1246,7 @@ var movies = [
     	"business operations",
     	"environment"
     	],
-    	 "id": 80
+    	 "id": 83
   },
     {
     "name":"Alternative Motor Vehicle Credit",
@@ -1261,7 +1262,7 @@ var movies = [
     	"business operations",
     	"environment"
     	],
-    	 "id": 81
+    	 "id": 84
   },
   {
     "name":"Biodiesel and Renewable Diesel Fuels Credit",
@@ -1277,7 +1278,7 @@ var movies = [
     	"environment",
     	"renewable energy"
     	],
-    	 "id": 82
+    	 "id": 85
   },
     {
     "name":"Business Use of Car",
@@ -1290,7 +1291,7 @@ var movies = [
     	"business operations",
     	"tax incentive"
     	],
-    	 "id": 83
+    	 "id": 86
   },
   {
     "name":"Credit for Employer Social Security and Medicare Taxes Paid on Certain Employee Tips (Food and Beverage Industry)",
@@ -1307,7 +1308,7 @@ var movies = [
     	"employee benefits",
     	"tax incentive"
     	],
-    	 "id": 84
+    	 "id": 87
   },
   {
     "name":"Credit for Employer-Provided Childcare Facilities and Services",
@@ -1321,7 +1322,7 @@ var movies = [
     	"tax incentive",
     	"employee benefits"
     	],
-    	 "id": 85
+    	 "id": 88
   },
   {
     "name":"Credit for Increasing Research Activities",
@@ -1334,7 +1335,7 @@ var movies = [
     	"research and development",
     	"tax incentive"
     	],
-    	 "id": 86
+    	 "id": 89
   },  {
     "name":"Credit for Small Employer Pension Plan Startup Costs",
     "link":"https://www.irs.gov/uac/Form-8881,-Credit-for-Small-Employer-Pension-Plan-Startup-Costs",
@@ -1349,7 +1350,7 @@ var movies = [
     	"pension",
     	"employee benefits"
     	],
-    	 "id": 87
+    	 "id": 90
   },
   {
     "name":"Deducting Business Expenses",
@@ -1363,7 +1364,7 @@ var movies = [
     	"SME",
     	"tax incentive"
     	],
-    	 "id": 88
+    	 "id": 91
   },
   {
     "name":"Disabled Access Credit",
@@ -1378,7 +1379,7 @@ var movies = [
     	"small business",
     	"SME"
     	],
-    	 "id": 89
+    	 "id": 92
   },
   {
     "name":"Distilled Spirits Credit",
@@ -1392,7 +1393,7 @@ var movies = [
     	"manufacturing",
     	"tax incentive"
     	],
-    	 "id": 90
+    	 "id": 93
   },  {
     "name":"Domestic Production Activities Deduction",
     "link":"https://www.irs.gov/uac/Form-8903,-Domestic-Production-Activities-Deduction",
@@ -1426,22 +1427,7 @@ var movies = [
     	],
     	 "id": 92
   },
-  {
-    "name":"Energy-Efficient Appliance Manufacturing Tax Credit",
-    "link":"http://www.irs.gov/Businesses/Corporations/Manufacturers%27-Energy-Efficient-Appliance-Credit",
-    "outline":"Manufacturers of qualified energy efficient appliances (eligible dishwashers, clothes washers, and refrigerators) can use Form 8909 to claim the energy efficient appliance tax credit.",
-    "genre": [
-    	"Consumer Goods",
-    	"Tax Credits and Deductions",
-    	"Treasury",
-    	"Internal Revenue Service",
-    	"energy",
-    	"tax incentive",
-    	"manufacturing",
-    	"environment"
-    	],
-    	 "id": 93
-  },  {
+    {
     "name":"Energy-Efficient Commercial Building Tax Deduction",
     "link":"http://energy.gov/savings/energy-efficient-commercial-buildings-tax-deduction",
     "outline":"The Commercial Building Tax Deduction expired in January 2015, but may be extended by Congress. This tax deduction relates to expenses incurred for energy efficient building expenditures made by a building owner, such as improvements to interior lighting, HVAC and hot water systems, and building envelope systems.",
