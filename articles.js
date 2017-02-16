@@ -677,25 +677,6 @@ var movies = [
     	],
     	 "id": 44
   },
-    {
-    "name":"Rural Energy for America Program Renewable Energy Systems & Energy Efficiency Improvement Loans & Grants",
-    "link":"http://www.rd.usda.gov/programs-services/rural-energy-america-program-renewable-energy-systems-energy-efficiency",
-    "outline":"This program provides guaranteed loan financing and grant funding to agricultural producers and rural small businesses for renewable energy systems or to make energy efficiency improvements.",
-    "genre": [
-    	"Energy",
-    	"Financing and Loans",
-    	"USDA",
-    	"Rural Development",
-    	"agriculture",
-    	"rural",
-    	"funding",
-    	"grants",
-    	"renewable energy",
-    	"energy",
-    	"environment"
-    	],
-    	 "id": 45
-  },
    {
     "name":"ARPA-E Building Energy Efficiency Through Innovative Thermodevices (BEETIT)",
     "link":"http://arpa-e.energy.gov/?q=arpa-e-programs/beetit/",
@@ -1836,4 +1817,28 @@ var movies = [
     	],
     	 "id": 122
   }
+  {
+    "name":"Business & Industry Loan Guarantees",
+    "link":"http://www.rd.usda.gov/programs-services/business-industry-loan-guarantees",
+    "outline":"This program bolsters the existing private credit structure through the guaranteeing of loans for rural businesses, allowing private lenders to extend more credit than they would typically be able to.",
+    "genre": [
+    	"Loan",
+    	"Rural",
+    	"SMEs",
+    	"Small Business"
+     	],
+    	 "id": 123
+  }  
+  {
+    "name":"Challenge.gov",
+    "link":"https://www.challenge.gov/about/",
+    "outline":"Challenge.gov is a listing of challenge and prize competitions, all of which are run by more than 80 agencies across federal government. These include technical, scientific, ideation, and creative competitions where the U.S. government seeks innovative solutions from the public, bringing the best ideas and talent together to solve mission-centric problems.  More than $220 million in prize money has been offered since 2010, along with valuable and unique incentive prizes.",
+    "genre": [
+    	"Competitions",
+    	"Research",
+    	"R&D",
+    	"Prize"
+     	],
+    	 "id": 124
+  }  
 ]
