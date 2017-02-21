@@ -74,17 +74,6 @@ var movies = [
     	 "id": 5
   },
     {
-    "name":"Bureau of Industry and Security (BIS) Data Portal",
-    "link":"http://www.bis.doc.gov/data",
-    "outline":"The BIS Data Portal is a one-stop shop for export control data and analysis. The portal features statistics and a variety of datasets.",
-    "genre": [
-    	"Export Programs",
-    	"Bureau of Industry and Security",
-    	"Commerce"
-    	],
-    	 "id": 6
-  },
-    {
     "name":"Bureau of Industry and Security (BIS) Online Training",
     "link":"https://www.bis.doc.gov/index.php/compliance-a-training/export-administration-regulations-training/online-training-room",
     "outline":"BIS offers a number of on-line training tools, including free videos, training modules, and archived webinars for exporters interested in learning more about export control topics, including introductory videos, compliance tips, information on embargoes and sanctions, and other updates.  Online topics include presentations given at recent BIS Update Conferences and training videos on specialized topics.",
@@ -248,21 +237,7 @@ var movies = [
     	"regulations"
     	],
     	 "id": 18
-  },  {
-    "name":"Facility Guarantee Program",
-    "link":"http://apps.fas.usda.gov/excredits/facility-new.asp",
-    "outline":"This program is designed to enhance sales of U.S. agricultural commodities and products to emerging markets where demand may be constricted due to inadequate storage, processing, or handling capabilities for such products. The Commodity Credit Corporation provides payment guarantees to facilitate the financing of manufactured goods and services exported from the United States to improve or establish agricultural-related facilities in emerging markets.",
-    "genre": [
-    	"Export Programs",
-    	"Foreign Agricultural Service",
-    	"Agriculture",
-    	"agriculture",
-    	"export",
-    	"financing",
-    	"guarantee"
-    	],
-    	 "id": 19
-  },
+  },  
   {
     "name":"Foreign Market Development Program",
     "link":"http://www.fas.usda.gov/programs/foreign-market-development-program-fmd/",
@@ -1003,38 +978,7 @@ var movies = [
     	"SME"
     	],
     	 "id": 68
-  },  {
-    "name":"Export Express",
-    "link":"https://www.sba.gov/content/export-express-loan-program/",
-    "outline":"The Export Express loan program provides exporters and lenders a streamlined method to obtain SBA-backed financing for loans and lines of credit up to $500,000. Lenders use their own credit decision process and loan documentation, while the SBA determines eligibility and provides a loan approval in 36 hours or less, giving exporters access to their funds faster.",
-    "genre": [
-    	"Small Business Programs",
-    	"SBA",
-    	"export",
-    	"financing",
-    	"funding",
-    	"loan",
-    	"small business",
-    	"SME"
-    	],
-    	 "id": 69
-  },
-  {
-    "name":"Export Working Capital Program",
-    "link":"https://www.sba.gov/content/export-working-capital-program/",
-    "outline":"The Export Working Capital (EWCP) loan provides advances for up to $5 million to fund export transactions from purchase order to collections. This loan has a low guaranty fee and quick processing time.",
-    "genre": [
-    	"Small Business Programs",
-    	"SBA",
-    	"export",
-    	"financing",
-    	"funding",
-    	"loan",
-    	"small business",
-    	"SME"
-    	],
-    	 "id": 70
-  },
+  },  
   {
     "name":"HUBZone Certification",
     "link":"http://www.sba.gov/hubzone/",
@@ -1051,21 +995,6 @@ var movies = [
     	 "id": 71
   },
   {
-    "name":"International Trade Loan Program",
-    "link":"https://www.sba.gov/content/international-trade-loan/",
-    "outline":"This loan program is designed to help small businesses expand existing export markets or develop new export markets. The International Trade Loan offers loans up to $5 million for fixed assets and working capital for businesses that plan to start or continue exporting.",
-    "genre": [
-    	"Small Business Programs",
-    	"SBA",
-    	"small business",
-    	"SME",
-    	"trade",
-    	"financing",
-    	"funding",
-    	"international"
-    	],
-    	 "id": 72
-  },  {
     "name":"Small Business Innovation Research Program",
     "link":"http://www.sbir.gov/",
     "outline":"The Small Business Innovation Research (SBIR) program encourages U.S.-based small businesses to engage in federal research/research and development (R/R&D) that has the potential for commercialization. Through a competitive awards-based program, SBIR enables small businesses to explore their technological potential and provides the incentive to profit from its commercialization. The program provides access to funds committed by federal agencies with large extramural research and development budgets, including the Department of Defense, Energy and Health and Human Services, among others.",
@@ -1107,24 +1036,7 @@ var movies = [
     	],
     	 "id": 75
   },
-    {
-    "name":"Small Loan Advantage Program",
-    "link":"https://www.sba.gov/advantage/",
-    "outline":"This program is structured to encourage large, existing Small Business Administration (SBA) lenders to make lower-dollar loans, and is guaranteed by the SBA. The program does not require the small business borrower to be located in underserved markets.",
-    "genre": [
-      "Exporting",
-      "Small Businesses and Startups",
-    	"Small Business Programs",
-    	"SBA",
-    	"financing",
-    	"funding",
-    	"loan",
-    	"SME",
-    	"small business"
-    	],
-    	 "id": 76
-  },
-      {
+  {
     "name":"Office of Small and Disadvantaged Business Utilization",
     "link":"https://www.treasury.gov/resource-center/sb-programs/Small-Disadvantaged-Business/Pages/Small-and-Disadvantaged-Business-Utilization1.aspx",
     "outline":"The Office of Small and Disadvantaged Business Utilization assists, counsels, and advises small businesses of all types (small businesses, small disadvantaged business, women-owned small businesses, economically disadvantaged women-owned small businesses, veteran owned small businesses, service disabled veteran owned small businesses, and small businesses located in historically underutilized business zones) on procedures for contracting with Treasury.",
@@ -1136,7 +1048,7 @@ var movies = [
     	],
     	 "id": 77
   },
-        {
+  {
     "name":"Small Business Lending Fund (SBLF)",
     "link":"https://www.treasury.gov/resource-center/sb-programs/Pages/Small-Business-Lending-Fund.aspx",
     "outline":"The Small Business Lending Fund (SBLF) provided capital to qualified community banks and community development loan funds (CDLFs) to encourage these institutions and Main Street businesses to work together to promote economic growth and create new jobs. Through the SBLF program, Treasury invested over $4.0 billion in 332 institutions, structured to incentivize increased small business lending. This page features an interactive map of participating lending institutions.",
@@ -1560,20 +1472,6 @@ var movies = [
     	"small business"
     	],
     	 "id": 103
-  },
-  {
-    "name":"Nonconventional Source Fuel Credit",
-    "link":"http://www.irs.gov/uac/About-Form-8907",
-    "outline":"You can use Form 8907 to claim a tax credit if you produce and sell fuel from a qualified non-conventional source, including oil from shale or tar sands, synthetic fuels from coal, and gas from biomass and coalbed methane.",
-    "genre": [
-    	"Energy",
-    	"Tax Credits and Deductions",
-    	"Treasury",
-    	"Internal Revenue Service",
-    	"energy",
-    	"tax incentive"
-    	],
-    	 "id": 104
   },
   {
     "name":"Orphan Drug Credit",
