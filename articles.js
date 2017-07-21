@@ -14,20 +14,6 @@ var movies = [
     ],
       "id": 1
   },
-  {
-    "name":"BusinessUSA Country Trade Leads",
-    "link":"http://business.usa.gov/micro-site/country-resource",
-    "outline":"In their Trade Leads Portal, BusinessUSA provides market-specific trade leads, research, and other resources for exporting to countries around the world.",
-    "genre": [
-    	"Export Programs",
-    	"BusinessUSA",
-    	"Commerce",
-    	"export",
-    	"international",
-    	"marketing"
-    	],
-    	 "id": 2
-  },
     {
     "name":"Export Control Regulatory Compliance Assistance",
     "link":"http://www.bis.doc.gov/index.php/compliance-a-training/export-administration-regulations-training",
@@ -42,21 +28,6 @@ var movies = [
     	"regulations"
     	],
     	 "id": 3
-  },
-    {
-    "name":"Export Control Reform (ECR) Regularly Scheduled Teleconference Calls",
-    "link":"https://www.bis.doc.gov/index.php/2012-03-30-17-54-11/2013-02-15-13-50-20",
-    "outline":"BIS conducts a weekly teleconference updating the public on the Export Control Reform (ECR) Initiative each Wednesday at 2:30 p.m. Eastern Time. Exporters can submit questions about any aspect of the Export Control Reform Initiative, including any BIS proposed rule that is open for comment or any ECR rule published in final form.  Questions must be submitted via email prior to the teleconference to ECRweekly@bis.doc.gov.",
-    "genre": [
-    	"Export Programs",
-    	"Bureau of Industry and Security",
-    	"Commerce",
-    	"assistance",
-    	"counseling",
-    	"export",
-    	"regulations"
-    	],
-    	 "id": 4
   },
     {
     "name":"Export Administration Regulations (EAR) Decision Tree Tools",
@@ -113,21 +84,6 @@ var movies = [
     	"regulations"
     	],
     	 "id": 9
-  },
-  {
-    "name":"Frequently Asked Questions and Guidance",
-    "link":"http://www.bis.doc.gov/index.php/policy-guidance/faqs",
-    "outline":"BIS has a list of frequently asked questions and policy guidance for major or complex issues involving export controls. This includes selected certain advisory opinions that may be of general interest to the public. BIS will add future advisory opinions to this list as appropriate. These advisory opinions have been redacted to avoid releasing identifying information that is protected under Section 12(c) of the Export Administration Act. Finally, BIS offers an introduction to our enforcement operation and the role it plays in ensuring exporters comply with our export control regulations in “Don’t Let This Happen to You!”",
-    "genre": [
-    	"Export Programs",
-    	"Bureau of Industry and Security",
-    	"Commerce",
-    	"assistance",
-    	"counseling",
-    	"export",
-    	"regulations"
-    	],
-    	 "id": 10
   },
   {
     "name":"Foreign Export Control Resources",
@@ -604,23 +560,6 @@ var movies = [
     	 "id": 41
   },
     {
-    "name":"Minority Business Development Agency Business  Center Program",
-    "link":"http://www.mbda.gov/businesscenters/",
-    "outline":"The Minority Business Development Agency operates a national network of more than 40 MBDA Business Centers designed to help clients develop cross-border relationships to sell their goods and services worldwide. MBDA is a resource for firms looking to partner with minority-owned firms, who have a competitive advantage in global trade based on their cultural ties, language skills and nimbleness. MBDA promotes the interest of minority-owned firms with governments around the work and alerts clients to emerging opportunities. Eligibility: Target clients are MBEs with $500,000 or more in annual revenues and/or “rapid-growth potential” firms. Start-up and/or micro minority firms are served via referrals, strategic partnerships or electronic delivery methods. U.S. businesses that are owned or controlled by the following persons or groups of persons are eligible to receive business assistance services under the MBEC program: African Americans, Hispanic Americans, Asian and Pacific Islander Americans, Native Americans (including Alaska Natives, Alaska Native Corporations and tribal entities), Asian Indian Americans and Hasidic Jewish Americans.",
-    "genre": [
-    	"Financing and Loans",
-    	"Commerce",
-    	"Minority Business Development Agency",
-    	"minority",
-    	"advocacy",
-    	"counseling",
-    	"financing",
-    	"business partnership",
-    	"promotion"
-    	],
-    	 "id": 42
-  },
-    {
     "name":"Business Physical Disaster Loan",
     "link":"http://www.sba.gov/disaster/",
     "outline":"Following a natural disaster, Physical Disaster Loans of up to $2 million are available to qualified businesses or private, nonprofit organizations of any size to help restore or replace damaged real estate, inventory, machinery, equipment, and other business assets to their pre-disaster condition.",
@@ -869,21 +808,6 @@ var movies = [
     	"grants"
     	],
     	 "id": 61
-  },
-    {
-    "name":"International Intellectual Property Rights Assistance",
-    "link":"http://trade.gov/mas/ian/oipr/index.asp",
-    "outline":"The International Trade Administration’s Office of Intellectual Property Rights provides counseling, special programs, and tools to help U.S.-based companies protect their intellectual property—including patents, trademarks, copyrights, and trade secrets—in foreign markets.",
-    "genre": [
-    	"Intellectual Property Programs",
-    	"Commerce",
-    	"International Trade Administration",
-    	"intellectual property",
-    	"assistance",
-    	"counseling",
-    	"advocacy"
-    	],
-    	 "id": 62
   },
     {
     "name":"Inventors Assistance Center",
