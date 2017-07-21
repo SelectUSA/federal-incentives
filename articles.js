@@ -1562,19 +1562,6 @@ var movies = [
     	 "id": 116
   },
   {
-    "name":"Natural Resources Investment Center",
-    "link":"https://www.doi.gov/invest",
-    "outline":"The Natural Resource Investment Center (Center) uses market-based tools and innovative public-private collaborations to conserve natural resources, enhance efficient water allocation, and promote increased investments in critical infrastructure in conjunction with the Department’s programs, bureaus, and offices. The Center focuses on three major goals: Increase investment in critical water infrastructure; Increase investment in water conservation and build up water supply resilience; and Foster private impact investments and support well-structured markets that advance efficient permitting and conservation.",
-    "genre": [
-    	"Natural Resources",
-    	"Infrastructure",
-    	"Conservation",
-    	"Public-Private",
-    	"Information"
-    	],
-    	 "id": 117
-  },
-  {
     "name":"Business & Industry Loan Guarantees",
     "link":"http://www.rd.usda.gov/programs-services/business-industry-loan-guarantees",
     "outline":"This program bolsters the existing private credit structure through the guaranteeing of loans for rural businesses, allowing private lenders to extend more credit than they would typically be able to.",
