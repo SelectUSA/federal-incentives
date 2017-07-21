@@ -591,23 +591,6 @@ var movies = [
     	],
     	 "id": 44
   },
-   {
-    "name":"ARPA-E Building Energy Efficiency Through Innovative Thermodevices (BEETIT)",
-    "link":"http://arpa-e.energy.gov/?q=arpa-e-programs/beetit/",
-    "outline":"Administered by the U.S. Department of Energy, the goal of this program is to develop new approaches and technologies for building cooling equipment and air conditioners, with the specific aim of drastically improving building energy efficiency and reducing greenhouse gas emissions. ARPA-E empowers America's energy researchers with funding, technical assistance, and market readiness.",
-    "genre": [
-    	"Environmental Technology",
-    	"Funding and Grants",
-    	"Energy",
-    	"ARPA-E",
-    	"energy",
-    	"environment",
-    	"funding",
-    	"grants",
-    	"research and development"
-    	],
-    	 "id": 48
-  },
   {
     "name":"Department of Education Funding Opportunities",
     "link":"http://www2.ed.gov/fund/grant/find/edlite-forecast.html",
