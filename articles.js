@@ -776,23 +776,7 @@ var movies = [
     	],
     	 "id": 60
   },
-    {
-    "name":"Research Partnership to Secure Energy for America (RPSEA)",
-    "link":"http://www.rpsea.org/about/",
-    "outline":"Under contract with the Department of Energy’s National Energy Technology Laboratory, the Research Partnership to Secure Energy for America (RPSEA) manages a 10-year, $375 million program designed to enable the development of new technologies necessary to produce more secure, abundant and affordable domestic energy supplies. RPSEA manages three program areas under this contract: Ultra-Deepwater, Unconventional Resources, and Small Producer. Each program’s funding is set annually to invest in oil and gas research and development projects.",
-    "genre": [
-    	"Energy",
-    	"Funding and Grants",
-    	"Energy",
-    	"National Energy Technology Laboratory",
-    	"energy",
-    	"research and development",
-    	"funding",
-    	"grants"
-    	],
-    	 "id": 61
-  },
-    {
+  {
     "name":"Inventors Assistance Center",
     "link":"http://www.uspto.gov/learning-and-resources/support-centers/inventors-assistance-center-iac",
     "outline":"The Inventors Assistance Center (IAC) engages in a range of educational and outreach services to help inventors in understanding the value of protecting their intellectual property and how to navigate the patent process. Staffed by former Supervisory Patent Examiners and various IP specialists and attorneys, the IAC answers questions and assists independent inventors with filling out necessary forms.",
