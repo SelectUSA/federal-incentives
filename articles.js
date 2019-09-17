@@ -31,7 +31,7 @@ var movies = [
   },
     {
     "name":"Export Administration Regulations (EAR) Decision Tree Tools",
-    "link":"https://www.bis.doc.gov/index.php/2012-03-30-17-54-11/2013-02-15-13-50-21",
+    "link":"https://www.bis.doc.gov/index.php/decisiontree-tools",
     "outline":"BIS offers online tools to help exporters determine the requirements for the export, reexport or transfer of items subject to the EAR.  Exporters can use BIS tools to help determine 1) the classification of an item subject to the EAR,  2) if an item is specially designed under the EAR, 3) if an item is eligible for shipment under License Exception Strategic Trade Authorization, and finally, 4)  if a non-U.S.-made item that is located outside the United States is subject to the EAR.",
     "genre": [
     	"Export Programs",
@@ -46,7 +46,7 @@ var movies = [
   },
     {
     "name":"Bureau of Industry and Security (BIS) Online Training",
-    "link":"https://www.bis.doc.gov/index.php/compliance-a-training/export-administration-regulations-training/online-training-room",
+    "link":"https://www.bis.doc.gov/index.php/online-training-room",
     "outline":"BIS offers a number of on-line training tools, including free videos, training modules, and archived webinars for exporters interested in learning more about export control topics, including introductory videos, compliance tips, information on embargoes and sanctions, and other updates.  Online topics include presentations given at recent BIS Update Conferences and training videos on specialized topics.",
     "genre": [
     	"Export Programs",
@@ -427,7 +427,7 @@ var movies = [
     	 "id": 32
   },  {
     "name":"USDA Export Credit Guarantee Program",
-    "link":"http://apps.fas.usda.gov/excredits/ecgp.asp",
+    "link":"https://www.fas.usda.gov/programs/export-credit-guarantee-program-gsm-102",
     "outline":"The U.S. Department of Agriculture (USDA) administers export credit guarantee programs for commercial financing of U.S. agricultural exports. These USDA Commodity Credit Corporation programs facilitate exports to countries where buyers find credit is difficult to obtain. The guarantees provide protection for the U.S. exporters and U.S. banks from default by the foreign banks.",
     "genre": [
     	"Agriculture",
@@ -443,7 +443,7 @@ var movies = [
   },
   {
     "name":"Advanced Technology Vehicle Manufacturing Loan Program",
-    "link":"http://energy.gov/lpo/services/atvm-loan-program/",
+    "link":"https://www.energy.gov/lpo/advanced-technology-vehicles-manufacturing-atvm-loan-program",
     "outline":"Advanced Technology Vehicles Manufacturing (ATVM) loans support the development of advanced technology vehicles (ATV) and associated components in the United States. The ATVM Loan Program is currently accepting applications.",
     "genre": [
     	"Automotive",
@@ -503,7 +503,7 @@ var movies = [
   },
   {
     "name":"Economic Injury Disaster Loan (EIDL)",
-    "link":"https://www.sba.gov/loans-grants/see-what-sba-offers/sba-loan-programs/disaster-loans/types-disaster-loans/economic-injury-disaster-loans",
+    "link":"https://disasterloan.sba.gov/ela/Information/EIDLLoans",
     "outline":"Economic Injury Disaster Loans (EIDLs) are working capital loans available to qualified small businesses, private nonprofit organizations of all sizes, and small agricultural cooperatives that suffered financial losses because of a natural disaster, regardless of physical damage. This assistance is administered by the Small Business Administration.",
     "genre": [
     	"Financing and Loans",
@@ -532,7 +532,7 @@ var movies = [
   },
     {
     "name":"Farm Storage Facility Loan Program",
-    "link":"http://www.apfo.usda.gov/FSA/webapp?area=home&subject=prsu&topic=flp",
+    "link":"https://www.fsa.usda.gov/programs-and-services/price-support/facility-loans/farm-storage/",
     "outline":"Administered by the U.S. Department of Agriculture, the Farm Storage Facility Loan Program provides low-interest financing for producers to build or upgrade permanent facilities to store commodities. Eligible commodities include grains, oilseeds, peanuts, pulse crops, hay, honey, renewable biomass commodities, fruits, and vegetables.",
     "genre": [
     	"Agriculture",
@@ -744,7 +744,7 @@ var movies = [
   },
     {
     "name":"Office of Energy Efficiency and Renewable Energy (EERE) Funding",
-    "link":"http://www1.eere.energy.gov/financing/",
+    "link":"https://www.energy.gov/eere/funding/eere-funding-opportunities",
     "outline":"The Office of Energy Efficiency and Renewable Energy (EERE) works with businesses, industry, universities, and other organizations to increase the use of renewable energy and energy efficiency technologies. EERE encourages the growth of these technologies by offering financial assistance and funding opportunities for their development and demonstration.",
     "genre": [
     	"Energy",
@@ -853,7 +853,7 @@ var movies = [
   },
   {
     "name":"Regional Innovation Clusters Initiative",
-    "link":"https://www.sba.gov/sba-clusters",
+    "link":"https://www.sba.gov/sites/default/files/oed_files/Clusters.pdf",
     "outline":"The SBA is investing in 50+ regional innovation clusters throughout the United States that span a variety of industries, from energy and manufacturing to health IT and biotech. These clusters provide matchmaking, business training, counseling, mentoring, and other services to help small businesses expand and grow, while fostering regional networks of small and large businesses, university researchers, regional economic organizations, stakeholders, and investors. The advanced manufacturing clusters also assist small businesses with commercialization of R&D, export readiness, international and domestic marketing, and strengthening supply chains.",
     "genre": [
     	"Small Business Programs",
@@ -1050,7 +1050,7 @@ var movies = [
   },
   {
     "name":"Biodiesel and Renewable Diesel Fuels Credit",
-    "link":"http://www.irs.gov/uac/Form-8864,--Biodiesel-and-Renewable-Diesel-Fuels-Credit",
+    "link":"https://www.irs.gov/forms-pubs/about-form-8864",
     "outline":"If your company produces, sells, or uses biodiesel or renewable fuels, you can use Form 8864 to claim a credit on your federal taxes that far exceeds the federal tax on the fuel. This credit can be claimed for sale or use of the following fuels: biodiesel, renewable diesel, biodiesel mixture, renewable diesel mixture, and small agro-biodiesel producers.",
     "genre": [
     	"Energy",
@@ -1096,7 +1096,7 @@ var movies = [
   },
   {
     "name":"Credit for Employer-Provided Childcare Facilities and Services",
-    "link":"http://www.irs.gov/uac/Form-8882,-Credit-for-Employer-Provided-Childcare-Facilities-and-Services",
+    "link":"https://www.irs.gov/forms-pubs/about-form-8882",
     "outline":"If you pay a child care facility to provide child care services to your employees, you can use Form 8882 to claim a credit on your corporate federal taxes for up to 25 percent of your costs.",
     "genre": [
     	"Tax Credits and Deductions",
@@ -1110,7 +1110,7 @@ var movies = [
   },
   {
     "name":"Credit for Increasing Research Activities",
-    "link":"https://www.irs.gov/uac/Form-6765,-Credit-for-Increasing-Research-Activities",
+    "link":"https://www.irs.gov/forms-pubs/about-form-6765",
     "outline":"This federal tax credit is designed to encourage businesses to increase the amount they spend on research and experimental activities from year to year. You can use Form 6765 to determine how much credit you can claim; the form instructions include details on what research activities qualify for this credit.",
     "genre": [
     	"Tax Credits and Deductions",
@@ -1122,7 +1122,7 @@ var movies = [
     	 "id": 89
   },  {
     "name":"Credit for Small Employer Pension Plan Startup Costs",
-    "link":"https://www.irs.gov/uac/Form-8881,-Credit-for-Small-Employer-Pension-Plan-Startup-Costs",
+    "link":"https://www.irs.gov/forms-pubs/about-form-8881",
     "outline":"As a small employer, when you set up a qualified retirement plan for your employees, you may be able to claim 50 percent of your setup and administration costs as a tax credit for the first 3 years of the plan.",
     "genre": [
     	"Tax Credits and Deductions",
@@ -1167,7 +1167,7 @@ var movies = [
   },
   {
     "name":"Distilled Spirits Credit",
-    "link":"https://www.irs.gov/uac/Form-8906,-Distilled-Spirits-Credit",
+    "link":"https://www.irs.gov/forms-pubs/about-form-8906",
     "outline":"This tax credit is available to distillers and importers of distilled spirits and eligible wholesalers of distilled spirits.",
     "genre": [
     	"Consumer Goods",
@@ -1180,7 +1180,7 @@ var movies = [
     	 "id": 93
   },  {
     "name":"Domestic Production Activities Deduction",
-    "link":"https://www.irs.gov/uac/Form-8903,-Domestic-Production-Activities-Deduction",
+    "link":"https://www.irs.gov/forms-pubs/about-form-8903",
     "outline":"If you hire employees in the United States or base your production and manufacturing activities here, you may be able to claim a 9 percent deduction off your taxes. This deduction is designed to encourage domestic production and covers a broad range of production activities, including selling items manufactured in the United States, construction services, engineering and architectural services, and software development.",
     "genre": [
     	"Tax Credits and Deductions",
@@ -1198,7 +1198,7 @@ var movies = [
   },
   {
     "name":"Energy Efficient Home Credit",
-    "link":"http://www.irs.gov/uac/Form-8908,-Energy-Efficient-Home-Credit",
+    "link":"https://www.irs.gov/forms-pubs/about-form-8908",
     "outline":"As a contractor, if you sell or lease a qualified energy efficient home for another person’s use as a residence, you can use Form 8908 to claim a tax credit based on the home’s energy saving requirements.",
     "genre": [
     	"Professional Services",
@@ -1257,7 +1257,7 @@ var movies = [
     	 "id": 96
   },  {
     "name":"Investment Credit for Property Owners",
-    "link":"https://www.irs.gov/uac/Form-3468,-Investment-Credit-2",
+    "link":"https://www.irs.gov/pub/irs-pdf/i3468.pdf",
     "outline":"As a property owner, you can use Form 3468 to claim tax credits for investing in certain improvement projects on your property. Eligible types of projects include restoring, preserving, or upgrading an older building); producing and storing alternative energy such as wind, solar, or geothermal;  generating clean electricity using coal; converting coal, petroleum, or biomass into usable gas; and projects that reduce greenhouse gas emissions.",
     "genre": [
     	"Energy",
@@ -1274,7 +1274,7 @@ var movies = [
   },
   {
     "name":"Low Sulfur Diesel Fuel Production Credit",
-    "link":"https://www.irs.gov/uac/Form-8896,-Low-Sulfur-Diesel-Fuel-Production-Credit",
+    "link":"https://www.irs.gov/forms-pubs/about-form-8896",
     "outline":"Qualified small business refiners may use Form 8896 to claim a tax credit for producing low sulfur diesel fuel.",
     "genre": [
     	"Energy",
@@ -1290,7 +1290,7 @@ var movies = [
   },
   {
     "name":"Low-Income Housing Credit",
-    "link":"http://www.irs.gov/uac/Form-8609,-Low-Income-Housing-Credit-Allocation-and-Certification",
+    "link":"https://www.huduser.gov/portal/datasets/lihtc.html",
     "outline":"If you own any residential low-income rental buildings, you can use Form 8609 to claim a low-income housing credit for each qualified building over a 10-year credit period.",
     "genre": [
     	"Professional Services",
@@ -1306,7 +1306,7 @@ var movies = [
   },
   {
     "name":"Manufacturers' Energy Efficient Appliance Credit",
-    "link":"https://www.irs.gov/Businesses/Corporations/Manufacturers'-Energy-Efficient-Appliance-Credit",
+    "link":"https://www.irs.gov/businesses/corporations/manufacturers-energy-efficient-appliance-credit",
     "outline":"Companies that manufacture dishwashers, washing machines for clothes, or refrigerators can claim a tax credit for each type of qualified energy efficient appliance they produce. The credit amount is based on the type of appliance, its energy efficiency, and for dishwashers and clothes washers, the amount of water it consumes.",
     "genre": [
     	"Consumer Goods",
@@ -1321,7 +1321,7 @@ var movies = [
   },
   {
     "name":"Mine Rescue Team Training Credit",
-    "link":"http://www.irs.gov/uac/Form-8923,-Mine-Rescue-Team-Training-Credit",
+    "link":"https://www.irs.gov/forms-pubs/about-form-8923",
     "outline":"If you employ individuals as miners in U.S. underground mines, you can use Form 8923 to claim a tax credit to cover training program costs for qualified mine rescue team employees.",
     "genre": [
     	"Energy",
@@ -1366,7 +1366,7 @@ var movies = [
   },
   {
     "name":"Orphan Drug Credit",
-    "link":"http://www.irs.gov/uac/Form-8820,-Orphan-Drug-Credit",
+    "link":"https://www.irs.gov/forms-pubs/about-form-8820",
     "outline":"As a pharmaceutical company, if you work to develop treatments and cures for certain rare diseases, you can use Form 8820 to claim a tax credit of 50 percent of your clinical drug testing costs under Section 505(i) of the Federal Food, Drug and Cosmetic Act.",
     "genre": [
     	"Pharmaceuticals and Biotech",
@@ -1409,7 +1409,7 @@ var movies = [
   },
   {
     "name":"Renewable Electricity, Refined Coal and Indian Coal Production Credit",
-    "link":"http://www.irs.gov/uac/Form-8835,-Renewable-Electricity,-Refined-Coal,-and-Indian-Coal-Production-Credit",
+    "link":"https://www.irs.gov/forms-pubs/about-form-8835",
     "outline":"If you sell electricity, refined coal, or Indian coal produced in the United States from qualified energy resources, you can use Form 8835 to claim a tax credit. Eligible energy resources include wind, biomass, poultry waste, geothermal, solar, municipal solid waste, and hydropower, in addition to refined coal and Indian coal.",
     "genre": [
     	"Energy",
@@ -1426,7 +1426,7 @@ var movies = [
   },
   {
     "name":"Small Business Health Care Tax Credit for Small Employers",
-    "link":"http://www.irs.gov/uac/Form-8941,-Credit-for-Small-Employer-Health-Insurance-Premiums",
+    "link":"https://www.irs.gov/affordable-care-act/employers/small-business-health-care-tax-credit-and-the-shop-marketplace",
     "outline":"As an eligible small employer with fewer than 25 full-time employees, you can use Form 8941 to claim a tax credit of up to 50 percent of premiums paid for your employees’ health insurance.",
     "genre": [
     	"Tax Credits and Deductions",
@@ -1498,7 +1498,7 @@ var movies = [
   },
   {
     "name":"UNICOR: Production Opportunities",
-    "link":"http://www.unicor.gov/PartneringWithUnicor.aspx",
+    "link":"https://www.unicor.gov/BusinessOpportunities.aspx",
     "outline":"UNICOR may assist private firms that compete for government contracts by allowing them to purchase manufacturing time and to subcontract parts and services directly through UNICOR. Our high-quality, competitively priced labor can translate into more competitive bids and higher profits for your business.",
     "genre": [
     	"Manufacturing",
